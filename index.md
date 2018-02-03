@@ -21,3 +21,7 @@ Shamik Sengupta - External Advisor
 Various design documents for CIAS can be viewed on Google Drive.  
 [Project Proposal](https://docs.google.com/document/d/e/2PACX-1vRlA_YN3UhGyrcgjb51kJDHaPH4Qq72jnL9anUckOUfB2o4INe5WonKHTOkwmlJRJ89G4SpCghK7JYY/pub)  
 [Design Specification ](https://docs.google.com/document/d/e/2PACX-1vSVtmT1m95u3CSl-Qq-kjKA_ksofP7yHKd_vtJMx1f_VHnF3xCyG_a-5Ilf18QaKrgNNPV8-ezyr-Pp/pub)  
+
+#### Relevant Media
+www.npr.org/2017/07/25/539198429/study-cte-found-in-nearly-all-donated-nfl-player-brains
+
